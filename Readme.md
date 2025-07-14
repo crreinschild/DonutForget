@@ -73,3 +73,8 @@ $ donutforget list
 Set-Alias -Name donut -Value donutforget
 ```
 
+## Libraries Used
+
+Spectre.Console
+Spectre.Console.Cli
+System.CommandLine (Soon to be replaced by Spectre.Console.Cli)
